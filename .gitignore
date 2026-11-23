@@ -1,0 +1,7 @@
+build/
+build-cat/
+build-mac/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+DerivedData/
